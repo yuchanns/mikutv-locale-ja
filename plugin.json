@@ -1,0 +1,13 @@
+{
+  "id": "mikutv-locale-ja",
+  "name": "Japanese (日本語)",
+  "description": "Official Japanese UI localization for MikuTV.",
+  "kind": "locale",
+  "version": "1.0.0",
+  "apiVersion": 1,
+  "minAppVersion": "0.1.0",
+  "license": "Apache-2.0",
+  "language": "ja",
+  "nativeName": "日本語",
+  "locale": "locale.json"
+}
